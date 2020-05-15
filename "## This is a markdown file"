@@ -1,0 +1,8 @@
+How to Install R
+We have to follow three basic steps in the same order to run R and RStudio on your system.
+
+1. Install R
+The process of installing R depends on the type of your operating system. R can be installed in the following ways:
+For Mac
+Download the latest version of the .pkg file from the following link:
+CRAN R Project
